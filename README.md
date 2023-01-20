@@ -4,7 +4,7 @@ Working as a programmer since 2014, I'm focus on making web applications using P
 <div align="center">
   <a href="https://github.com/yudhatp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yudhatp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudhatp&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudhatp&layout=compact&langs_count=8&theme=dark"/>
 </a></div>
 
 ## 🛠 Skills
