@@ -1,16 +1,22 @@
 ## 🚀 About Me
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer" alt="Typing SVG" /></a>
+
 Working as a programmer since 2014, I'm focus on making web applications using PHP (Laravel) and Android mobile applications using Ionic Framework (Angular) and also learning about Flutter and Go.
 
 <div align="center">
   <a href="https://github.com/yudhatp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yudhatp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudhatp&layout=compact&langs_count=8&theme=dark"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudhatp&layout=compact&langs_count=8&theme=dark"/>-->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yudhatp&theme=radical"/>
 </a></div>
 
-## 🛠 Skills
+## 🛠 Tech Stack
 - Laravel 9, Ionic 6, Angular 14, Flutter 2, Go 1.16
+- JQuery, Bootstrap 5
 - Visual Basic 16, Delphi 7
 - MySQL, SQL Server, PostgreSQL, MariaDB
+- Redis, Sentry, Mailtrap, Twilio
+- Google Map API, Leaflet
 
 
 ## Contact Me
