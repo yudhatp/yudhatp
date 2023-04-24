@@ -11,7 +11,7 @@ Working as a programmer since 2014, I'm focus on making web applications using P
 </a></div>
 
 ## 🛠 Tech Stack
-- Laravel 9, Ionic 6, Angular 14, Flutter 2, Go 1.16
+- Laravel 10, Ionic 6, Angular 14, Flutter 2, Go 1.20
 - JQuery, Bootstrap 5
 - Visual Basic 16, Delphi 7
 - MySQL, SQL Server, PostgreSQL, MariaDB
