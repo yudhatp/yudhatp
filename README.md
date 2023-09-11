@@ -15,7 +15,7 @@ Working as a programmer since 2014, I'm focus on making web applications using P
 - JQuery, Bootstrap 5
 - Visual Basic 16, Delphi 7
 - MySQL, SQL Server, PostgreSQL, MariaDB
-- Redis, Sentry, Mailtrap, Twilio, Friebase Cloud Messaging
+- Redis, Sentry, Mailtrap, Twilio, Firebase Cloud Messaging
 - Google Map API, Leaflet
 
 
