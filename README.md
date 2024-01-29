@@ -3,17 +3,17 @@
 
 Working as a programmer since 2014, I'm focus on making web applications using PHP (Laravel) and Android mobile applications using Ionic Framework (Angular) and also learning about Flutter and Go.
 
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/yudhatp">
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yudhatp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudhatp&layout=compact&langs_count=8&theme=dark"/>-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yudhatp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudhatp&layout=compact&langs_count=8&theme=dark"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yudhatp&theme=radical"/>
-</a></div>
+</a></div>-->
 
 ## 🛠 Tech Stack
 - Laravel 10, Ionic 7, Angular 16, Flutter 3, Go 1.20
 - JQuery, Bootstrap 5
-- Visual Basic 16, Delphi 7
+- Visual Basic 16, Delphi 7, C#
 - MySQL, SQL Server, PostgreSQL, MariaDB
 - Redis, Sentry, Mailtrap, Twilio, Firebase Cloud Messaging
 - Google Map API, Leaflet
